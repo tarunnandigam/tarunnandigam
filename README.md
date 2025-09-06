@@ -3,7 +3,12 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Tarun Nandigam </h1>
-<h2 align="center">an Aspiring DevOps Enthusiast</h2>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FFB13B&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Enthusiast;Cloud+Enthusiast;Docker;AWS" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 🚀 DevOps Enthusiast | Cloud Computing
